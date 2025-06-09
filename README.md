@@ -1,12 +1,30 @@
-# React + Vite
+# 🧡 React Orange Store (Context + Fake Store API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, e-commerce React app featuring Context-based global state, functional shopping cart, product pages, and smart search/filter integration — with ongoing migration to Redux Toolkit.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Product List Page** – Fetches products from [Fake Store API](https://fakestoreapi.com)
+- **Smart Search & Filter** – Search bar and category filter work together seamlessly
+- **Product Detail Page** – Detailed view for each item
+- **Add to Cart** – Add and update quantities directly from product or cart pages
+- **Shopping Cart Page** – Review and manage cart items in real-time
+- **Global State via React Context API** – Custom `CartContext` for cart logic
+- **Clean code & folder structure** – Organized, maintainable codebase
+- **Responsive design** – Optimized for desktop 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+- React (+ Vite)
+- React Router DOM
+- Context API for state
+- Fake Store API for product data
+- Optionally: Tailwind CSS, React Icons
+
+---
+
+➡️This project is currently being improved.
