@@ -23,7 +23,7 @@ A clean, e-commerce React app featuring Context-based global state, functional s
 - React Router DOM
 - Context API for state
 - Fake Store API for product data
-- Optionally: Tailwind CSS, React Icons
+- Optionally: React Icons
 
 ---
 
