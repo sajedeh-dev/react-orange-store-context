@@ -1,0 +1,21 @@
+.cotainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+    min-height: 1000px;
+}
+.products {
+    width: 100%;
+}
+.emptycart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.emptycart p {
+    font-size: 2rem;
+    font-weight: 400;
+    color: #a0a0a0;
+}

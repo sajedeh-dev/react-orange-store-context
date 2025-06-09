@@ -1,0 +1,6 @@
+.loader {
+  height: 100vh; /* تمام ارتفاع صفحه */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
