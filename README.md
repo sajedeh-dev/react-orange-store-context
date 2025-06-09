@@ -3,6 +3,9 @@
 A clean, e-commerce React app featuring Context-based global state, functional shopping cart, product pages, and smart search/filter integration — with ongoing migration to Redux Toolkit.
 
 ---
+## Live Demo
+(https://react-orange-store-context.vercel.app)
+
 
 ## ✨ Features
 
