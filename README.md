@@ -21,6 +21,7 @@ A clean, e-commerce React app featuring Context-based global state, functional s
 
 - React (+ Vite)
 - React Router DOM
+- Axios
 - Context API for state
 - Fake Store API for product data
 - Optionally: React Icons
