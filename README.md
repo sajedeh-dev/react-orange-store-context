@@ -31,4 +31,4 @@ A clean, e-commerce React app featuring Context-based global state, functional s
 
 ---
 
-➡️This project is currently being improved.
+➡️This project is currently being improved. ➡️(https://github.com/sajedeh-dev/orange-store-redux-v2)
